@@ -59,13 +59,6 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 ```
 
-## Mock-Up
-
-The following image shows the web application's appearance and functionality:
-
-![alt text](image.png)
-
-![The weather app includes a search option, a list of cities, and a 5-day forecast and current weather conditions for Atlanta ](./Assets/09-servers-and-apis-homework-demo.png)
 
 ## Getting Started
 
