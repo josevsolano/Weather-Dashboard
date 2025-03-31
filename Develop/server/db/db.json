@@ -1,6 +1,14 @@
 [
   {
+    "name": "new york",
+    "id": "77bce8ce-7b7f-4950-9853-49069191824d"
+  },
+  {
+    "name": "chicago",
+    "id": "46790819-1b33-4410-9e88-5d329409e534"
+  },
+  {
     "name": "San Diego",
-    "id": "31da491f-207f-4418-a278-d0ade37a6e4e"
+    "id": "6880db48-8ee4-4b9e-abe6-805df45ab843"
   }
 ]
